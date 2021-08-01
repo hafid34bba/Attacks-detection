@@ -12,3 +12,8 @@ the model gave us a good result on testing data which combine attacks and no att
 # Training and validation loss graph
 
 ![](loss.png)
+
+
+# Detection graph for test data
+
+![](results.png)
