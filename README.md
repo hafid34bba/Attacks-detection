@@ -4,7 +4,7 @@ Conditional Variational Autoencoder CVAE<br>
 
 # Model architecture
 
-![](model_archi.png)
+![](model_archit.png)
 
 # Evaluation
 The model gave us a good result on testing data which is combination of attacks and no attacks.
