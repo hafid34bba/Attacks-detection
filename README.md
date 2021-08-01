@@ -7,7 +7,7 @@ Conditional Variational Autoencoder CVAE<br>
 ![](model_archi.png)
 
 # Evaluation
-the model gave us a good result on testing data which combine attacks and no attacks.
+The model gave us a good result on testing data which is combination of attacks and no attacks.
 
 | Metric        | value         |
 | ------------- | ------------- |
